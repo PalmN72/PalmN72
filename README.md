@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">FullStack dev from Sweden</h3>
 
-- 🔭 I’m currently working on **TaskManager**
+- 🔭 I’m currently working on [AlmaHack](https://github.com/TBD-salt-23/AlmaHack)
 
 - 📫 How to reach me **cs.palmqvist@gmail.com**
 
