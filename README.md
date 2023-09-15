@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [HOME_Biz](https://github.com/Home-Biz-LLS/home-biz)
 
+- Final Project from SALT Bootcamp [AlmaHack](https://github.com/TBD-salt-23/AlmaHack)
+
 - 📫 How to reach me **cs.palmqvist@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
