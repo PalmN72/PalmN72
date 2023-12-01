@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">FullStack dev from Sweden</h3>
 
-- 🔭 I’m currently working on [Öppna Skolplattformen]([https://skolplattformen.org/](https://github.com/Home-Biz-LLS/ospUpdate))
+- 🔭 I’m currently working on [Öppna Skolplattformen](https://github.com/Home-Biz-LLS/ospUpdate)
   
 - 🔭 I’m also working on a personal project [Lister](https://github.com/PalmN72/lister)
 
