@@ -2,7 +2,7 @@
 <h3 align="center">FullStack dev from Sweden</h3>
 
 - 🔭 I’m currently working on [Öppna Skolplattformen](https://skolplattformen.org/)
-- 
+  
 - 🔭 I’m also working on a personal project [Lister]()
 
 - Final Project from SALT Bootcamp [AlmaHack](https://github.com/TBD-salt-23/AlmaHack)
