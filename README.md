@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Öppna Skolplattformen](https://github.com/Home-Biz-LLS/ospUpdate)
   
-- 🔭 I’m also working on a personal project [Lister](https://github.com/PalmN72/lister)
+- 🔭 I’m also working on [applaudify](https://github.com/orgs/team-blue-tea/repositories)
 
 - Final Project from SALT Bootcamp [AlmaHack](https://github.com/TBD-salt-23/AlmaHack)
 
